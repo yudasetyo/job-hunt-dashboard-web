@@ -17,6 +17,15 @@ export const JOB_LISTING_COLUMN: string[] = [
   "Needs",
 ];
 
+export const JOB_APPLICANT_COLUMN: string[] = ["Name", "Applied Date"];
+
+export const JOB_APPLICANT_DATA = [
+  {
+    name: "Yuda Setyo Hidayat",
+    appliedDate: "28 Oct 2000",
+  },
+];
+
 export const JOB_LISTING_DATA = [
   {
     roles: "Software Engineer",
